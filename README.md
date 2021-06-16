@@ -1,7 +1,9 @@
 ### Hi there,I'm Bright Pongpak 👋 
-* :technologist: I’m currently working on Humanica
-* 🌱 I’m currently learning .NET Framework
-
+* :technologist: I’m currently working at Humanica Company
+* :book: I’m currently learning .NET Framework
+* :computer: My computer language skill: Python, Java, JavaScript, Haskell, SQL, C++ and C#
+* :desktop_computer: My Web framework skill: React, Bootstrap, material ui and bulma
+* :electric_plug: Other tools: Git
 
 <!--
 **tmpongpak/tmpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
