@@ -6,7 +6,7 @@
 * :electric_plug: Other tools: Git
 * 📫 How to reach me: prc32875@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/{tmpongpak}/count.svg)
+![image title](https://rushter.com/counter.svg)
 <!--
 **tmpongpak/tmpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
