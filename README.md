@@ -4,7 +4,7 @@
 * :computer: My computer language skill: Python, Java, JavaScript, Haskell, SQL, C++ and C#
 * :desktop_computer: My Web framework skill: React, Bootstrap, material ui and bulma
 * :electric_plug: Other tools: Git
-
+* 📫 How to reach me: prc32875@gmail.com
 <!--
 **tmpongpak/tmpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
