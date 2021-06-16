@@ -5,6 +5,8 @@
 * :desktop_computer: My Web framework skill: React, Bootstrap, material ui and bulma
 * :electric_plug: Other tools: Git
 * 📫 How to reach me: prc32875@gmail.com
+
+![Visitor Count](https://profile-counter.glitch.me/{tmpongpak}/count.svg)
 <!--
 **tmpongpak/tmpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
