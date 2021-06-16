@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there,I'm Bright Pongpak 👋 
+*:technologist: I’m currently working on Humanica
+*🌱 I’m currently learning .NET Framework
+*
 
 <!--
 **tmpongpak/tmpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
