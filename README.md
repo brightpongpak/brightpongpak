@@ -6,7 +6,7 @@
 * :electric_plug: Other tools: Git
 * 📫 How to reach me: prc32875@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmpongpak)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmpongpak&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
