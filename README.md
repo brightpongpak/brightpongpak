@@ -4,10 +4,9 @@
 * :computer: My computer language skill: Python, Java, JavaScript, Haskell, SQL, C++ and C#
 * :desktop_computer: My Web framework skill: React, Bootstrap, material ui and bulma
 * :electric_plug: Other tools: Git
-* 📫 How to reach me: prc32875@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmpongpak&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmpongpak&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmpongpak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmpongpak&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=tmpongpak)
 
