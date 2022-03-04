@@ -5,12 +5,12 @@
 I'm Pongpak, My nick name is Bright. I'm living at Chiang Mai Thailand. Now I'm working at Humanica Company. My jobs are development about web appliation and mobile application.
 I'm learing a new framework and new concept for development such as microservices, react native and vue.js for improve my programming skill.
 
-## Experience
+### Experience
 * 🔭 Full Stack developer using .NET freamwork, ionic, javaScript and angular.
 * 💻 Web Application.
 * 🌱 Mobile Application.
 
-## Languages & Others
+### Languages & Others
 [<img align="left" alt="node.js" width="35px" src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" />]()
 [<img align="left" alt="Python" width="35px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />]()
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
@@ -25,9 +25,9 @@ I'm learing a new framework and new concept for development such as microservice
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightpongpak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=tmpongpak)
+![](https://komarev.com/ghpvc/?username=brightpongpak)
 
 
 
 <!--
-**tmpongpak/tmpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brighttmpongpak/brightpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
