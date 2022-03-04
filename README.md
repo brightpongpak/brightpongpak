@@ -17,7 +17,6 @@ I'm learing a new framework and new concept for development such as microservice
 [<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Bitbucket" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />]()
 [<img align="left" alt="Jira" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_K9S-sOk8K8r_gnMQrHcS1GyTm_iGhdPWFCfFRR1jEM1W02eBJN1HWqoF3OX9jwD3FZo&usqp=CAU" />]()
-[<img align="left" alt="Postman" width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png" />]()
 <br />
 
 ---
