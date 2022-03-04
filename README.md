@@ -6,7 +6,7 @@ I'm Pongpak, My nick name is Bright. I'm living at Chiang Mai Thailand. Now I'm 
 I'm learing a new framework and new concept for development such as microservices, react native and vue.js for improve my programming skill.
 
 ### Experience
-* 🔭 Full Stack developer using .NET freamwork, ionic, javaScript and angular.
+* 🔭 Full-Stack developer using .NET freamwork, ionic, javaScript and angular.
 * 💻 Web Application.
 * 🌱 Mobile Application.
 
@@ -21,12 +21,11 @@ I'm learing a new framework and new concept for development such as microservice
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightpongpak&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightpongpak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://komarev.com/ghpvc/?username=brightpongpak)
 
 
 
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightpongpak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--![](https://komarev.com/ghpvc/?username=brightpongpak)
 <!--
 **brighttmpongpak/brightpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
