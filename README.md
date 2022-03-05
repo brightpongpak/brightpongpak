@@ -7,7 +7,7 @@ I am Pongpak Kasemsri Na Ayutthaya, people call me Bright, Graduated with a bach
 ### Experience
 * 💻 Full-Stack developer about Web Application and Mobile Application
 
-## ⚡ Technologies
+### ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
