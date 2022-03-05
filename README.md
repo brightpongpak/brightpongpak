@@ -1,7 +1,7 @@
 ### Hi there,I'm [Pongpak Kasemsri Na Ayutthaya](http://github.com) 👋 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer?center)](https://git.io/typing-svg)
 
 
 I'm Pongpak, My nick name is Bright. I'm living at Chiang Mai Thailand. Now I'm working at Humanica Company. My jobs are development about web appliation and mobile application.
