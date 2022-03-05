@@ -20,13 +20,12 @@ I'm learing a new framework and new concept for development such as microservice
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />	 -->
 </p>
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightpongpak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightpongpak&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightpongpak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightpongpak&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--![](https://komarev.com/ghpvc/?username=brightpongpak)
 <!--
 **brighttmpongpak/brightpongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
