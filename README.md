@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer)](https://git.io/typing-svg)
 
-I am Pongpak Kasemsri Na Ayutthaya, people call me Bright, Graduated with a bachelor's degree in Computer Engineering from Chiang Mai University, Now i am working at the Humanica Company. I love to learn some new framework and new concept such as microservices, react, vue and others for improve my programming skills.  
+I am Pongpak Kasemsri Na Ayutthaya, people call me Bright, Graduated with a bachelor's degree in Computer Engineering from Chiang Mai University, Now i am working at the Larngeartechnology. I love to learn some new framework and new concept such as microservices, react, vue and others for improve my programming skills.  
 
 ### Experience
 * 💻 Full-Stack developer about Web Application and Mobile Application
